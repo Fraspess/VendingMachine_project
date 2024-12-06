@@ -1,0 +1,5 @@
+Coffee was ordered 0 times 
+Tea was ordered 1 times 
+Americano was ordered 1 times 
+Cappucino was ordered 0 times 
+Espresso was ordered 1 times 
